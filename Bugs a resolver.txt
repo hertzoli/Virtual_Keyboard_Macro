@@ -1,0 +1,7 @@
+ao copiar do notepad++ e colar dentro do richtextbox ao enviar o texto para outro lugar o texto
+não vai.
+
+tecla de atalho não está funcionando dentro de uma sessão RDP
+
+no computador dos meninos do suporte ocorre muito erro quando há teclas maiúsculas, certamente será 
+necessário colocar delay entre os comando shifts.

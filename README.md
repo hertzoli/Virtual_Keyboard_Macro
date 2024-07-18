@@ -1,1 +1,1 @@
-Este aplicativo env
+Este aplicativo serve para enviar macros se sequencia de teclas do teclado a partir de strings. criado para facilitar o envio de comando e sequencia de teclas de strings longas de uma maquina local para uma maquina virtual.
